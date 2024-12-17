@@ -1,0 +1,7 @@
+{
+  "name": "AquaAlert",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
