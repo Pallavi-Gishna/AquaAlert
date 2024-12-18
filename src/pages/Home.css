@@ -1,0 +1,32 @@
+.page-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
+  .logo {
+    width: 200px; /* Adjust size as needed */
+    margin-bottom: 20px;
+  }
+  
+  .app-title {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333; /* Dark gray */
+    margin: 10px 0 5px;
+  }
+  
+  .tagline {
+    font-size: 1rem;
+    color: #777; /* Light gray */
+    margin-bottom: 30px;
+  }
+  
+  .get-started-btn {
+    background-color: #123456; /* Dark Blue Color */
+    color: #fff;
+    border-radius: 8px;
+    width: 80%;
+  }
