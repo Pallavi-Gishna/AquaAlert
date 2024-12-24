@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\narme\\databasebackend\\databasebackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D55A644B-070E-43DA-AC82-D16EA079109D}|databasebackend\\databasebackend.csproj|c:\\users\\narme\\databasebackend\\databasebackend\\databasebackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D55A644B-070E-43DA-AC82-D16EA079109D}|databasebackend\\databasebackend.csproj|solutionrelative:databasebackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D55A644B-070E-43DA-AC82-D16EA079109D}|databasebackend\\databasebackend.csproj|c:\\users\\narme\\databasebackend\\databasebackend\\databasebackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D55A644B-070E-43DA-AC82-D16EA079109D}|databasebackend\\databasebackend.csproj|solutionrelative:databasebackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D55A644B-070E-43DA-AC82-D16EA079109D}|databasebackend\\databasebackend.csproj|c:\\users\\narme\\databasebackend\\databasebackend\\databasebackend\\models\\mytablemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D55A644B-070E-43DA-AC82-D16EA079109D}|databasebackend\\databasebackend.csproj|solutionrelative:databasebackend\\models\\mytablemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D55A644B-070E-43DA-AC82-D16EA079109D}|databasebackend\\databasebackend.csproj|c:\\users\\narme\\databasebackend\\databasebackend\\databasebackend\\data\\mysqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D55A644B-070E-43DA-AC82-D16EA079109D}|databasebackend\\databasebackend.csproj|solutionrelative:databasebackend\\data\\mysqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D55A644B-070E-43DA-AC82-D16EA079109D}|databasebackend\\databasebackend.csproj|c:\\users\\narme\\databasebackend\\databasebackend\\databasebackend\\controllers\\mytablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D55A644B-070E-43DA-AC82-D16EA079109D}|databasebackend\\databasebackend.csproj|solutionrelative:databasebackend\\controllers\\mytablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D55A644B-070E-43DA-AC82-D16EA079109D}|databasebackend\\databasebackend.csproj|c:\\users\\narme\\databasebackend\\databasebackend\\databasebackend\\databasebackend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D55A644B-070E-43DA-AC82-D16EA079109D}|databasebackend\\databasebackend.csproj|solutionrelative:databasebackend\\databasebackend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D55A644B-070E-43DA-AC82-D16EA079109D}|databasebackend\\databasebackend.csproj|c:\\users\\narme\\databasebackend\\databasebackend\\databasebackend\\databasebackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D55A644B-070E-43DA-AC82-D16EA079109D}|databasebackend\\databasebackend.csproj|solutionrelative:databasebackend\\databasebackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "databasebackend",
+              "DocumentMoniker": "C:\\Users\\narme\\databasebackend\\databasebackend\\databasebackend\\databasebackend.csproj",
+              "RelativeDocumentMoniker": "databasebackend\\databasebackend.csproj",
+              "ToolTip": "C:\\Users\\narme\\databasebackend\\databasebackend\\databasebackend\\databasebackend.csproj",
+              "RelativeToolTip": "databasebackend\\databasebackend.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-24T03:55:42.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyTableController.cs",
+              "DocumentMoniker": "C:\\Users\\narme\\databasebackend\\databasebackend\\databasebackend\\Controllers\\MyTableController.cs",
+              "RelativeDocumentMoniker": "databasebackend\\Controllers\\MyTableController.cs",
+              "ToolTip": "C:\\Users\\narme\\databasebackend\\databasebackend\\databasebackend\\Controllers\\MyTableController.cs",
+              "RelativeToolTip": "databasebackend\\Controllers\\MyTableController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:11:18.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "databasebackend.csproj",
+              "DocumentMoniker": "C:\\Users\\narme\\databasebackend\\databasebackend\\databasebackend\\databasebackend.csproj",
+              "RelativeDocumentMoniker": "databasebackend\\databasebackend.csproj",
+              "ToolTip": "C:\\Users\\narme\\databasebackend\\databasebackend\\databasebackend\\databasebackend.csproj",
+              "RelativeToolTip": "databasebackend\\databasebackend.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-24T03:09:58.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\narme\\databasebackend\\databasebackend\\databasebackend\\Program.cs",
+              "RelativeDocumentMoniker": "databasebackend\\Program.cs",
+              "ToolTip": "C:\\Users\\narme\\databasebackend\\databasebackend\\databasebackend\\Program.cs",
+              "RelativeToolTip": "databasebackend\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:07:34.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\narme\\databasebackend\\databasebackend\\databasebackend\\appsettings.json",
+              "RelativeDocumentMoniker": "databasebackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\narme\\databasebackend\\databasebackend\\databasebackend\\appsettings.json",
+              "RelativeToolTip": "databasebackend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T03:05:29.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MySqlDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\narme\\databasebackend\\databasebackend\\databasebackend\\Data\\MySqlDbContext.cs",
+              "RelativeDocumentMoniker": "databasebackend\\Data\\MySqlDbContext.cs",
+              "ToolTip": "C:\\Users\\narme\\databasebackend\\databasebackend\\databasebackend\\Data\\MySqlDbContext.cs",
+              "RelativeToolTip": "databasebackend\\Data\\MySqlDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:03:53.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyTableModel.cs",
+              "DocumentMoniker": "C:\\Users\\narme\\databasebackend\\databasebackend\\databasebackend\\Models\\MyTableModel.cs",
+              "RelativeDocumentMoniker": "databasebackend\\Models\\MyTableModel.cs",
+              "ToolTip": "C:\\Users\\narme\\databasebackend\\databasebackend\\databasebackend\\Models\\MyTableModel.cs",
+              "RelativeToolTip": "databasebackend\\Models\\MyTableModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:02:22.876Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
